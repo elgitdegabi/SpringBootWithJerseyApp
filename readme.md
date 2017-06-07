@@ -25,7 +25,7 @@ So, here is a little example about how to configure and test (with Mockito and E
 	* 1.3.8.RELEASE (without ServletInitiliazer class)
 
 ## End-points ##
-###GET end-point:
+### GET end-point: ###
 http://localhost:8080/resources/get/test
 
 ## GitHub repository: ##
@@ -33,7 +33,7 @@ http://localhost:8080/resources/get/test
 ## Contact ##
 Let me know if you have any problem, comment or new ideas:
 #### Wordpress: http://gabelopment.wordpress.com/ ####
-####Email: gabelopment@gmail.com ####
+#### Email: gabelopment@gmail.com ####
 
 Edited on: 7th June 2017
  
